@@ -15,7 +15,7 @@ namespace ConsoleApp8
 
             CapturaDatos();
             resultado = valor1 + valor2;
-            Console.WriteLine("El resultado es = " + resultado);
+            Console.WriteLine("Aqui va tu resultado= " + resultado);
             base.Calculo();
         }
     }
